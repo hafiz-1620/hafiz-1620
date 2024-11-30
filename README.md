@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hafiz-1620</h1>
+<h1 align="center">Hi 👋, I'm Hafiz</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiz-1620&label=Profile%20views&color=0e75b6&style=flat" alt="hafiz-1620" /> </p>
